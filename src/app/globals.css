@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme{
+  --shadow-md-card: 0px 0px 10px 0px;
+
+
+  --color-primary: #ff383e;
+}
